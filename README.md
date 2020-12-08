@@ -14,4 +14,4 @@ Data for the project:
 
 
 Analysis File Description
- Dplyr package was required to run this script.  Read all the test data and train data merge them into one data set. Each variables were names accordingly based on the features listed in the features.txt file.Using the combined data set, independent tidy data set with the average of each variable for each activity and each subject was created and written into TidySet.txt file.
+ Dplyr package was required to run this script.  Read all the test data and train data merge them into one data set. Each variables were named as listed in the features.txt file. Using the combined data set, a tidy data set with averages of each activity variable and subject was created and written into TidySet.txt file.
